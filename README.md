@@ -15,5 +15,5 @@
 ](https://www.nature.com/articles/nbt.3388)
 
 ## Contact
-[My homepage](https://www.moqri.com/)
-[Email me](moqri@stanford.edu)
+* [My homepage](https://www.moqri.com/)
+* [Email me](moqri@stanford.edu)
