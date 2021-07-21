@@ -1,4 +1,5 @@
-# STEMREM200
+
+# Bioinformatic Analysis of RNA-seq Data from Stem Cells and IPCs Using Python 
 ## Python Packages
 * https://pandas.pydata.org/
 * https://numpy.org/ 
