@@ -13,7 +13,7 @@
 
 ## Starter notebook
 * [ESC_vs_iPSC](../main/ESC_vs_iPSC.ipynb)
-* [Example interactive code](https://github.com/moqri/iPSC-scoring)
+* [Example interactive code](http://www.stemdb.net/)
 
 ## Reference
 [A comparison of genetically matched cell lines reveals the equivalence of human iPSCs and ESCs
